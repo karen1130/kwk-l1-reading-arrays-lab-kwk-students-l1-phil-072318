@@ -3,6 +3,7 @@ def first_student_by_index
   # Write a solution that returns the first student in the array student_names
   STUDENT_NAMES = ["Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
   puts STUDENT_NAMES[0] = "Adele"
+  puts 
 end
 
 first_student_by_index

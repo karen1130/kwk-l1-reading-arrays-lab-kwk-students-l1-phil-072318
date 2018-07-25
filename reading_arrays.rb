@@ -9,7 +9,7 @@
 #   "Nicki Minaj",
 #   "Rihanna"
 # ]
-  puts room[0] = "Adele"
+  puts  = "Adele"
 end
 
 def fourth_student_by_index
